@@ -1,3 +1,13 @@
-Data::GUID::URLSafe 0.004
 
-This module adds urlsafe base64 methods to Data::GUID;
+
+This archive contains the distribution Data-GUID-URLSafe,
+version 0.005:
+
+  url-safe base64-encoded GUIDs
+
+This software is copyright (c) 2007 by Ricardo SIGNES.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
