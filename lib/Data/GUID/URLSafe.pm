@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Data::GUID::URLSafe;
 {
-  $Data::GUID::URLSafe::VERSION = '0.005';
+  $Data::GUID::URLSafe::VERSION = '0.006';
 }
 # ABSTRACT: url-safe base64-encoded GUIDs
 
@@ -49,7 +49,7 @@ Data::GUID::URLSafe - url-safe base64-encoded GUIDs
 
 =head1 VERSION
 
-version 0.005
+version 0.006
 
 =head1 SYNOPSIS
 
